@@ -1,0 +1,8 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+      "agent": "./3.5_email_agent.py:agent",
+      "picnic_agent": "./3.6_picnic_agent.py:agent"
+  },
+  "env": "../../.env"
+}
